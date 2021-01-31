@@ -56,8 +56,7 @@ Chọn black template nhấn Enter. Mở dự án bằng visual code.
 > Chú ý: 
 > - Máy điện thoại và máy tính phải sử dụng cùng mạng lan.
 
-![Tạo dự án hello-world](https://youtu.be/01a47qwUp7E)
-
+[![Tạo dự án hello-world](https://img.youtube.com/vi/01a47qwUp7E/0.jpg)](https://youtu.be/01a47qwUp7E)
 
 
 
