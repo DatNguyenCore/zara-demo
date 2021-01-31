@@ -12,7 +12,8 @@ Cấu trúc thư mục của dự án.
     │   ├── themes              # chứa các cấu hình về giao diện.
     │   ├── utils               # chứa các hàm hỗ trỡ xử lý.
     ├── App.js                  # root component.
-    ├── package.json            # cấu hình thư viện bên thứ 3. VD: số version của các thư viện, tên thư viện,...
+    ├── package.json            # cấu hình thư viện bên thứ 3. VD: số version 
+    |                             của các thư viện, tên thư viện,...
     └── ...
 
 > Chú ý: 
