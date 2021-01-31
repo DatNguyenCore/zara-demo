@@ -1,10 +1,6 @@
 # zara-demo
 Cấu trúc thư mục của dự án.
 ============================
-
-> Chú ý: 
-> - Tất cả code của dự án được đặt trong thư mục src.
-
     .
     ├── node_modules            # chức thư viện bên thứ 3 cài bằng lệnh npm install.
     ├── src                     # mã nguồn của dự án.
@@ -19,7 +15,9 @@ Cấu trúc thư mục của dự án.
     ├── package.json            # cấu hình thư viện bên thứ 3. VD: số version của các thư viện, tên thư viện,...
     └── ...
 
->  tên thư mục viết thường và thêm s hoặc es ở cuối tên. VD: components, images,...
+> Chú ý: 
+> - Tất cả code của dự án được đặt trong thư mục src.
+> - Lên thư mục viết thường và thêm s hoặc es ở cuối tên. VD: components, images,...
 > `LICENSE`, `README.md`
 
 Cách cài đặt môi trường phát triển trên expo.
