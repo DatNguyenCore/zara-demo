@@ -8,10 +8,10 @@ Cấu trúc thư mục của dự án.
     .
     ├── node_modules            # chức thư viện bên thứ 3 cài bằng lệnh npm install.
     ├── src                     # mã nguồn của dự án.
-    │   ├── components          # chứa các component dùng chung trong ứng dụng.
-    │   ├── images              # chứa ảnh trong ứng dụng.
+    │   ├── components          # chứa các component dùng chung.
+    │   ├── images              # chứa ảnh, logo.
     │   ├── navigations         # chứa cấu hình để điều hướng giữa các màn hình.
-    │   ├── screens             # chứa các hàm hình.
+    │   ├── screens             # chứa các màn hình.
     │   ├── services            # chứa dữ liệu giả lập.
     │   ├── themes              # chứa các cấu hình về giao diện.
     │   ├── utils               # chứa các hàng hỗ trỡ.
